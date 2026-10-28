@@ -25,7 +25,7 @@ I build intelligent machines: **embedded systems, AI and robotics**, from design
 - [Local AI Assistant (LLM + RAG)](link-to-repo): Flask, Ollama, ChromaDB
 
 ## 📫 How to reach me
-- 💼 LinkedIn: [your LinkedIn link]
+- 💼 LinkedIn: https://www.linkedin.com/in/wiem-ferchichi-584a06297
 - 📧 Email: wiem.ferchichi@enstab.ucar.tn
 - 📧 Email: ferchichiwiem20@gmail.com
 - 🌐 Portfolio: https://wiem500.github.io/
