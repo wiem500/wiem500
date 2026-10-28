@@ -13,7 +13,7 @@ I build intelligent machines: **embedded systems, AI and robotics**, from design
 - 🧠 Building with **local LLMs and RAG** (Ollama, ChromaDB)
 
 ## 🛠️ Tools and technologies
-**Embedded and IoT:** ESP32 · STM32 · Raspberry Pi · Arduino · C/C++ · MQTT · UART · I2C · BLE
+**Embedded and IoT:** ESP32 · STM32 · Raspberry Pi · Arduino · C/C++ · MQTT · UART · I2C 
 **AI and Edge AI:** Python · Machine Learning · CNN · Computer Vision · Reinforcement Learning · Edge Impulse
 **Robotics and simulation:** PyBullet · URDF · PID control · ROS (basics) · MATLAB/Simulink
 **Hardware design:** VHDL · FPGA · Xilinx Vivado
@@ -27,5 +27,6 @@ I build intelligent machines: **embedded systems, AI and robotics**, from design
 ## 📫 How to reach me
 - 💼 LinkedIn: [your LinkedIn link]
 - 📧 Email: wiem.ferchichi@enstab.ucar.tn
+- 📧 Email: ferchichiwiem20@gmail.com
 - 🌐 Portfolio: https://your-username.github.io
 - 📍 Tunis, Tunisia
